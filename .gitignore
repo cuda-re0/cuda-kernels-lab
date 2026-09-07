@@ -1,0 +1,28 @@
+# CUDA 编译产物
+*.o
+*.obj
+*.exe
+*.out
+a.out
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+venv/
+.venv/
+
+# 编辑器
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db
+
+# 本地结果（可选，如果你想把结果也提交就删掉这行）
+results/*.png
+results/*.csv
+EOF
